@@ -7,6 +7,3 @@ def solution(l):
                 c[i] += 1
                 count += c[j]
     return count
-
-
-print(solution([1, 1, 2, 4]))
